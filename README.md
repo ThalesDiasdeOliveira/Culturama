@@ -22,5 +22,4 @@ Neste repositório você tem acesso a todo o material produzido no curso.
 
 ## 🛠️ Abrir e rodar o projeto
 
-[https://thalesdiasdeoliveira.github.io/Culturama/]
-(https://thalesdiasdeoliveira.github.io/Culturama/)
+https://thalesdiasdeoliveira.github.io/Culturama/
